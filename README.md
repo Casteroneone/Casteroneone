@@ -7,7 +7,7 @@
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.shion.dev/api?username=Casteroneone&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="200" />
-<td align="right" width="100%">
+
 <img src="https://media1.tenor.com/m/Gz6sI5PIo28AAAAC/evangelion.gif" height="200" />
 
 
